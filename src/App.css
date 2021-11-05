@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.App-title {
+  color: rgb(66, 174, 241);
+}
+
+.App-desc {
+  color: rgb(66, 174, 241);
+}
